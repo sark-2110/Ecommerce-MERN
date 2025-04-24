@@ -1,2 +1,2 @@
-# Ecommerce-MERN-
+# Ecommerce-MERN
 ecommerce website created  with mern stack

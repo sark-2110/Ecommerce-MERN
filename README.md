@@ -28,11 +28,11 @@ Welcome to the eCommerce Platform Project built using the MERN (MongoDB, Express
 2. Clone the forked repository to your local machine
 
 ```bash
-git clone https://github.com/your-username/MERN-eCommerce.git
+git clone https://github.com/your-username/Ecommerce-MERN.git
 ```
 
 ```bash
-cd MERN-eCommerce
+cd Ecommerce-MERN
 ```
 
 3. Create a MongoDB database and obtain your MongoDB URI from [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).

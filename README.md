@@ -120,4 +120,8 @@ npm run data:destroy
 
 Feel free to explore and customize this eCommerce platform for your specific needs. Happy coding🤩!
 
+<<<<<<< HEAD
 ## Thank You!
+=======
+## Thank You!
+>>>>>>> e3cf1f005eed8a24559c222ddd089bfe9c8186f1
